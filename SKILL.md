@@ -4,7 +4,7 @@ description: Combine programs that don't normally coexist to create added value 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4745
+  version: 1.0.4746
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - programmatic-alchemy
